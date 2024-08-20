@@ -1,5 +1,5 @@
 {
-  "name": "test_app",
+  "name": "todo-application",
   "version": "0.0.1",
   "private": true,
   "scripts": {
